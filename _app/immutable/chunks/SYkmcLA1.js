@@ -1,0 +1,1 @@
+import{b as u,i as o,H as _,h as t,j as g,C as p,k as l,l as a,n,f as m}from"./CL_Tv5gc.js";function E(d,r){let s=null,f=t;var i;if(t){s=m;for(var e=g(document.head);e!==null&&(e.nodeType!==p||e.data!==d);)e=l(e);if(e===null)a(!1);else{var y=l(e);e.remove(),n(y)}}t||(i=document.head.appendChild(u()));try{o(()=>r(i),_)}finally{f&&(a(!0),n(s))}}export{E as h};
